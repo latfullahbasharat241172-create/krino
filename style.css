@@ -1,0 +1,16 @@
+@font-face {
+    font-family: arkan;
+    src: url('./fonts/Arkan\ Kids.ttf');
+}
+
+button{
+    font-family: arkan;
+}
+
+h1{
+    font-family: arkan;
+}
+
+p{
+    font-family: arkan;
+}
